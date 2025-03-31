@@ -17,3 +17,9 @@ sistema para bancário Curso
         # informarse sem saldo
         # armazena todas os saque e deposito para Extrato
         # extrato exiber sadlo + saques + deposito ( R$ xxxx.xx)
+
+    # Atualização para funções
+        #criar usuarios
+        #criar contas
+        #listar Contas
+        #inserir data e horas nas movimentações de saque e deposito
